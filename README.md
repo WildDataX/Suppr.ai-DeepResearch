@@ -63,11 +63,11 @@
 
 ## 🔗 生态集成
 
-### Zotero插件
-与[Suppr Zotero插件](https://github.com/WildDataX/suppr-zotero-plugin)完美集成，实现文献翻译，深度研究的集成在筹划中。
-
-
+-**Zotero插件** 与[Suppr Zotero插件](https://github.com/WildDataX/suppr-zotero-plugin)完美集成，实现文献翻译，深度研究的集成在筹划中。
 - **官方网站**：[https://suppr.wilddata.cn](https://suppr.wilddata.cn)
+- **AI文档翻译**:https://suppr.wilddata.cn/translate/upload
+- **API服务**:https://openapi.suppr.wilddata.cn/introduction
+- **中文搜Pubmed**: https://suppr.wilddata.cn/
 - **深度研究**：[https://suppr.wilddata.cn/deep-research](https://suppr.wilddata.cn/deep-research)  
 - **GitHub组织**：[WildDataX](https://github.com/WildDataX)
 ---
